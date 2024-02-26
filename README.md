@@ -1,1 +1,1 @@
-# Easier-Bark-Voice-Cloning-Google-COlab
+# Easier-Bark-Voice-Cloning-Google-Colab
